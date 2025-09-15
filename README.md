@@ -1,6 +1,13 @@
 # Resume Analyzer
 
 An AI-powered resume analysis tool that provides detailed feedback on your resume. Built with Node.js, Express, React, and Google's Gemini AI.
+# for test use login with this credentials 
+For User:
+email: keshavjind01@gmail.com 
+password: Kesh@v01
+For Admin:
+email: malikkeshav035@gmail.com 
+password: Kesh@v02
 
 ## Features
 
